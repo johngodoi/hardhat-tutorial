@@ -139,3 +139,4 @@ cache
 artifacts
 cache
 *secrets*
+ignition/deployments
